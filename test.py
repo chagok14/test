@@ -1,4 +1,3 @@
-'''
-Hello
-## first page
-'''
+import streamlit as st
+
+st.write('Hello')
